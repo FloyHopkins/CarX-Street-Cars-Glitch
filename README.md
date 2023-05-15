@@ -1,5 +1,5 @@
 # CarX-Street-Cars-Glitch
-There is a glitch in CarX Street that allows players to get unlimited cars. To do this, players need to follow these steps:
+There is a glitch in CarX Street that allows players to get unlimited cars. To do this, you need to follow these steps:
 
 Go to the Car Dealership.
 Select the car that you want to glitch.
